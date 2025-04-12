@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **e-Hakeem product**
 
-- 🌱 I’m currently learning **Flutter, AI and Data Science**
+- 🌱 I’m currently learning **Python, Django and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://bento.me/waqasrashid](https://bento.me/waqasrashid)
 
-- 💬 Ask me about **angular, php and programming**
+- 💬 Ask me about **angular,python, php and programming**
 
 - 📫 How to reach me **waqasghani13@gmail.com**
 
