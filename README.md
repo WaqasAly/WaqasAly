@@ -42,8 +42,7 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waqas-rashid1&show_icons=true&theme=radical" alt="Waqas's GitHub Stats" />
-  <br/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=waqas-rashid1&theme=dark&hide_current_streak=true" alt="GitHub Streak" /></a>
   <img src="https://streak-stats.demolab.com?user=waqas-rashid1&theme=radical" alt="GitHub Streak Stats" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=waqas-rashid1&theme=dracula&area=true&hide_border=true" alt="Contribution Graph" />
