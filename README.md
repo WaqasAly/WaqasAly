@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer from Pakistan 🇵🇰</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=waqas-rashid1&label=Profile%20views&color=0e75b6&style=flat" alt="waqas-rashid1" />
+  <img src="https://komarev.com/ghpvc/?username=waqas-rashid1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/waqas-rashid1?label=Followers&style=flat-square" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/waqas-rashid1?label=Stars&style=flat-square" alt="GitHub Stars" />
 </p>
@@ -42,8 +42,9 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=waqas-rashid1&theme=dark&hide_current_streak=true" alt="GitHub Streak" /></a>
-  <img src="https://streak-stats.demolab.com?user=waqas-rashid1&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=waqas-rashid1&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=waqas-rashid1&theme=radical" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=waqas-rashid1&theme=dracula&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
@@ -57,30 +58,35 @@
 
 ---
 
-### 📊 Contribution Snake:
+### 🐍 My Contribution Graph (Snake Animation)
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/waqas-rashid1/waqas-rashid1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake.svg" />
 </p>
 
-> _Note: For snake animation to work, you must enable GitHub Actions with the contribution snake workflow in your repository._
+<p align="center">
+  <img src="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake-ocean.gif" />
+</p>
+
+> _Note: For the Snake animation to work, ensure GitHub Actions are enabled and the snake workflow is properly deployed._
 
 ---
 
 ### ✨ Recent Projects:
 - [Elevatr](https://github.com/waqas-rashid1/Elevatr)
-<!-- - [ExamAnalyzer](https://github.com/waqas-rashid1/ExamAnalyzer)y -->
-- [Carbon Footprint Tracker](acts.earth)
+- [Carbon Footprint Tracker](https://acts.earth)
 
 ---
 
 ### ☕ Fun Fact:
-> I believe every small step in coding counts! Even the tiniest bug-fix is a win. 🚀
-
----
-
-_If you like my work, consider giving a ⭐ on my projects or connecting with me!_
+> Every small step in coding counts! Even fixing a small bug is a victory 🚀.
 
 ---
 
 ### 🖤 Support & Sponsor Me:
+
 [![Sponsor](https://img.shields.io/badge/Sponsor%20Me-BrightGreen?style=for-the-badge)](https://opencollective.com/elevatr)
