@@ -63,7 +63,17 @@
 
 ### 🐍 My Contribution Graph (Snake Animation)
 
-![Snake animation](https://waqas-rashid1.github.io/snk/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake-ocean.gif" />
+</p>
 
 ---
 
