@@ -82,5 +82,6 @@
 
 ### 🖤 Support & Sponsor Me:
 
-[![Sponsor](https://raw.githubusercontent.com/waqas-rashid1/waqas-rashid1/main/collective-button.png)](https://opencollective.com/elevatr)
-
+<a href="https://opencollective.com/elevatr">
+  <img src="https://raw.githubusercontent.com/waqas-rashid1/waqas-rashid1/main/collective-button.png" width="150" style="border-radius: 8px;" alt="Sponsor" />
+</a>
