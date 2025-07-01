@@ -10,6 +10,7 @@
 ---
 
 ### 💻 Tech Stack:
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,dart,flutter,firebase,tailwind,figma,xd,ai,ps,vscode,visualstudio,androidstudio" />
 </div>
@@ -17,12 +18,14 @@
 ---
 
 ### 🚀 Currently Working On:
+
 - [Elevatr](https://github.com/waqas-rashid1/Elevatr)
 - Custom software projects at [SincSol](https://github.com/waqas-rashid1)
 
 ---
 
 ### 🌱 Currently Learning:
+
 - Django
 - DevOps Fundamentals
 - Kubernetes Basics
@@ -30,6 +33,7 @@
 ---
 
 ### 📬 Contact Me:
+
 <p align="left">
   <a href="https://www.linkedin.com/in/waqas-rashid1"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://x.com/waqas_aly07"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter" alt="Twitter" /></a>
@@ -44,7 +48,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waqas-rashid1&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br/>
+  <br/>
+  
   <img src="https://streak-stats.demolab.com?user=waqas-rashid1&theme=radical" alt="GitHub Streak" />
+  <br/>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=waqas-rashid1&theme=dracula&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
@@ -52,6 +59,7 @@
 ---
 
 ### 🏅 Top Languages:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqas-rashid1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
@@ -60,29 +68,19 @@
 
 ### 🐍 My Contribution Graph (Snake Animation)
 
-<p align="center">
-  <img src="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<p align="center">
-  <img src="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake-ocean.gif" />
-</p>
-
-> _Note: For the Snake animation to work, ensure GitHub Actions are enabled and the snake workflow is properly deployed._
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake.svg" /> </picture> </p> <p align="center"> <img src="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake-ocean.gif" alt="GitHub Contribution Snake Animation (Ocean Theme)" /> </p>
 
 ---
 
 ### ✨ Recent Projects:
+
 - [Elevatr](https://github.com/waqas-rashid1/Elevatr)
 - [Carbon Footprint Tracker](https://acts.earth)
 
 ---
 
 ### ☕ Fun Fact:
+
 > Every small step in coding counts! Even fixing a small bug is a victory 🚀.
 
 ---
