@@ -64,14 +64,6 @@
 ### 🐍 My Contribution Graph (Snake Animation)
 
 <p align="center">
-  <img src="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<p align="center">
   <img src="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake-ocean.gif" />
 </p>
 
@@ -90,4 +82,4 @@
 
 ### 🖤 Support & Sponsor Me:
 
-[![Sponsor](https://img.shields.io/badge/Sponsor%20Me-BrightGreen?style=for-the-badge)](https://opencollective.com/elevatr)
+[![Sponsor](https://www.github.com/waqas-rashid1/waqas-rashid1/collective-button.png)](https://opencollective.com/elevatr)
