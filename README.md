@@ -10,7 +10,6 @@
 ---
 
 ### 💻 Tech Stack:
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,dart,flutter,firebase,tailwind,figma,xd,ai,ps,vscode,visualstudio,androidstudio" />
 </div>
@@ -18,14 +17,12 @@
 ---
 
 ### 🚀 Currently Working On:
-
 - [Elevatr](https://github.com/waqas-rashid1/Elevatr)
 - Custom software projects at [SincSol](https://github.com/waqas-rashid1)
 
 ---
 
 ### 🌱 Currently Learning:
-
 - Django
 - DevOps Fundamentals
 - Kubernetes Basics
@@ -33,7 +30,6 @@
 ---
 
 ### 📬 Contact Me:
-
 <p align="left">
   <a href="https://www.linkedin.com/in/waqas-rashid1"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://x.com/waqas_aly07"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter" alt="Twitter" /></a>
@@ -59,7 +55,6 @@
 ---
 
 ### 🏅 Top Languages:
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqas-rashid1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
@@ -68,19 +63,17 @@
 
 ### 🐍 My Contribution Graph (Snake Animation)
 
-<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake.svg" /> </picture> </p> <p align="center"> <img src="https://waqas-rashid1.github.io/snk/github-contribution-grid-snake-ocean.gif" alt="GitHub Contribution Snake Animation (Ocean Theme)" /> </p>
+![Snake animation](https://waqas-rashid1.github.io/snk/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ### ✨ Recent Projects:
-
 - [Elevatr](https://github.com/waqas-rashid1/Elevatr)
 - [Carbon Footprint Tracker](https://acts.earth)
 
 ---
 
 ### ☕ Fun Fact:
-
 > Every small step in coding counts! Even fixing a small bug is a victory 🚀.
 
 ---
